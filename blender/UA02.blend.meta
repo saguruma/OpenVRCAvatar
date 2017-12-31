@@ -74,6 +74,22 @@ ModelImporter:
     100132: UpperArm_R
     100134: UpperLeg_L
     100136: UpperLeg_R
+    100138: Foot_end_L
+    100140: Foot_end_R
+    100142: Index_Distal_end_L
+    100144: Index_Distal_end_R
+    100146: Little_Distal_end_L
+    100148: Little_Distal_end_R
+    100150: Middle_Distal_end_L
+    100152: Middle_Distal_end_R
+    100154: Ring_Distal_end_L
+    100156: Ring_Distal_end_R
+    100158: Thumb_Distal_end_L
+    100160: Thumb_Distal_end_R
+    100162: Bone
+    100164: Shoulder_L
+    100166: Shoulder_R
+    100168: Chest_end
     400000: Chest
     400002: Choulder_L
     400004: Choulder_R
@@ -143,6 +159,22 @@ ModelImporter:
     400132: UpperArm_R
     400134: UpperLeg_L
     400136: UpperLeg_R
+    400138: Foot_end_L
+    400140: Foot_end_R
+    400142: Index_Distal_end_L
+    400144: Index_Distal_end_R
+    400146: Little_Distal_end_L
+    400148: Little_Distal_end_R
+    400150: Middle_Distal_end_L
+    400152: Middle_Distal_end_R
+    400154: Ring_Distal_end_L
+    400156: Ring_Distal_end_R
+    400158: Thumb_Distal_end_L
+    400160: Thumb_Distal_end_R
+    400162: Bone
+    400164: Shoulder_L
+    400166: Shoulder_R
+    400168: Chest_end
     7400000: Default Take
     9500000: //RootNode
   materials:
