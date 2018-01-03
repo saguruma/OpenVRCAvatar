@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 10e6e0f215f256a438d63d9c765d3df6
-timeCreated: 1514892701
+timeCreated: 1514940563
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -145,6 +145,8 @@ ModelImporter:
     400134: UpperArm.R
     400136: UpperLeg.L
     400138: UpperLeg.R
+    2300000: Mesh
+    3300000: Mesh
     4300000: Mesh
     9500000: //RootNode
     13700000: Mesh
