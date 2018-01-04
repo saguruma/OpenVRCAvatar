@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 10e6e0f215f256a438d63d9c765d3df6
-timeCreated: 1514940563
+guid: a5f2f3b130b21ec439cbf0493382505b
+timeCreated: 1515067403
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -48,33 +48,34 @@ ModelImporter:
     100080: Middle Proximal.L
     100082: Middle Proximal.R
     100084: Neck
-    100086: RightEye
-    100088: RightEye_end
-    100090: Ring Distal.L
-    100092: Ring Distal.R
-    100094: Ring Distal_end.L
-    100096: Ring Distal_end.R
-    100098: Ring Intermediate.L
-    100100: Ring Intermediate.R
-    100102: Ring Proximal.L
-    100104: Ring Proximal.R
-    100106: Shoulder.L
-    100108: Shoulder.R
-    100110: Spine
-    100112: Thumb Distal.L
-    100114: Thumb Distal.R
-    100116: Thumb Distal_end.L
-    100118: Thumb Distal_end.R
-    100120: Thumb Intermediate.L
-    100122: Thumb Intermediate.R
-    100124: Thumb Proximal.L
-    100126: Thumb Proximal.R
-    100128: //RootNode
+    100086: //RootNode
+    100088: RightEye
+    100090: RightEye_end
+    100092: Ring Distal.L
+    100094: Ring Distal.R
+    100096: Ring Distal_end.L
+    100098: Ring Distal_end.R
+    100100: Ring Intermediate.L
+    100102: Ring Intermediate.R
+    100104: Ring Proximal.L
+    100106: Ring Proximal.R
+    100108: Shoulder.L
+    100110: Shoulder.R
+    100112: Spine
+    100114: Thumb Distal.L
+    100116: Thumb Distal.R
+    100118: Thumb Distal_end.L
+    100120: Thumb Distal_end.R
+    100122: Thumb Intermediate.L
+    100124: Thumb Intermediate.R
+    100126: Thumb Proximal.L
+    100128: Thumb Proximal.R
     100130: UA02
     100132: UpperArm.L
     100134: UpperArm.R
     100136: UpperLeg.L
     100138: UpperLeg.R
+    100140: OpenVRCAvatar
     400000: Chest
     400002: Foot.L
     400004: Foot.R
@@ -118,33 +119,34 @@ ModelImporter:
     400080: Middle Proximal.L
     400082: Middle Proximal.R
     400084: Neck
-    400086: RightEye
-    400088: RightEye_end
-    400090: Ring Distal.L
-    400092: Ring Distal.R
-    400094: Ring Distal_end.L
-    400096: Ring Distal_end.R
-    400098: Ring Intermediate.L
-    400100: Ring Intermediate.R
-    400102: Ring Proximal.L
-    400104: Ring Proximal.R
-    400106: Shoulder.L
-    400108: Shoulder.R
-    400110: Spine
-    400112: Thumb Distal.L
-    400114: Thumb Distal.R
-    400116: Thumb Distal_end.L
-    400118: Thumb Distal_end.R
-    400120: Thumb Intermediate.L
-    400122: Thumb Intermediate.R
-    400124: Thumb Proximal.L
-    400126: Thumb Proximal.R
-    400128: //RootNode
+    400086: //RootNode
+    400088: RightEye
+    400090: RightEye_end
+    400092: Ring Distal.L
+    400094: Ring Distal.R
+    400096: Ring Distal_end.L
+    400098: Ring Distal_end.R
+    400100: Ring Intermediate.L
+    400102: Ring Intermediate.R
+    400104: Ring Proximal.L
+    400106: Ring Proximal.R
+    400108: Shoulder.L
+    400110: Shoulder.R
+    400112: Spine
+    400114: Thumb Distal.L
+    400116: Thumb Distal.R
+    400118: Thumb Distal_end.L
+    400120: Thumb Distal_end.R
+    400122: Thumb Intermediate.L
+    400124: Thumb Intermediate.R
+    400126: Thumb Proximal.L
+    400128: Thumb Proximal.R
     400130: UA02
     400132: UpperArm.L
     400134: UpperArm.R
     400136: UpperLeg.L
     400138: UpperLeg.R
+    400140: OpenVRCAvatar
     2300000: Mesh
     3300000: Mesh
     4300000: Mesh
@@ -617,23 +619,23 @@ ModelImporter:
         length: 0
         modified: 0
     skeleton:
-    - name: UA02(Clone)
+    - name: OpenVRCAvatar(Clone)
       parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: Mesh
-      parentName: UA02(Clone)
+      parentName: OpenVRCAvatar(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: UA02
-      parentName: UA02(Clone)
+    - name: OpenVRCAvatar
+      parentName: OpenVRCAvatar(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 99.96106, y: 99.96106, z: 99.96106}
     - name: Hips
-      parentName: UA02
+      parentName: OpenVRCAvatar
       position: {x: -0, y: 0.00006497398, z: 0.0092}
       rotation: {x: 0.6883148, y: 0.0018762596, z: 0.0017803196, w: 0.7254075}
       scale: {x: 1.0000002, y: 0.9999996, z: 0.99999976}
@@ -899,24 +901,24 @@ ModelImporter:
       scale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
     - name: LeftEye
       parentName: Head
-      position: {x: -0.0004317014, y: 0.0010000003, z: 0.00073050254}
-      rotation: {x: -0.098422475, y: 0.6536615, z: 0.7002236, w: -0.2696787}
-      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      position: {x: -0.00014115045, y: 0.0010000002, z: 0.00065580226}
+      rotation: {x: -0.098422445, y: 0.65366167, z: 0.70022345, w: -0.26967862}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000002}
     - name: LeftEye_end
       parentName: LeftEye
-      position: {x: 1.2467756e-10, y: 0.0006, z: 6.933684e-10}
-      rotation: {x: 0.0010098291, y: -0.9782721, z: -0.0030258961, w: -0.2073005}
-      scale: {x: 0.9999998, y: 0.99999976, z: 0.9999999}
+      position: {x: -2.2809148e-10, y: 0.00060000014, z: -3.889925e-10}
+      rotation: {x: 0.0010098366, y: -0.9782722, z: -0.0030256317, w: -0.20730041}
+      scale: {x: 0.9999995, y: 0.99999976, z: 1.0000001}
     - name: RightEye
       parentName: Head
-      position: {x: 0.00073050236, y: 0.0010000002, z: 0.00043170154}
-      rotation: {x: 0.17418145, y: 0.7071041, z: 0.6853181, w: -0.0019494221}
-      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000005}
+      position: {x: 0.0004399514, y: 0.0010000002, z: 0.00050640176}
+      rotation: {x: 0.17418136, y: 0.70710427, z: 0.68531793, w: -0.0019495636}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
     - name: RightEye_end
       parentName: RightEye
-      position: {x: 2.0054228e-10, y: 0.0006000001, z: 0.0000000018434635}
-      rotation: {x: 0.000000033527606, y: -0.18431197, z: -0.000000037252896, w: 0.98286784}
-      scale: {x: 1.000002, y: 1.0000012, z: 1.0000004}
+      position: {x: 6.7273104e-11, y: 0.00060000014, z: -0.0000000010474694}
+      rotation: {x: -0.00000023655588, y: -0.18431209, z: -0, w: 0.98286784}
+      scale: {x: 1.0000014, y: 1.000001, z: 0.99999994}
     - name: Jaw
       parentName: Head
       position: {x: 0.00014878849, y: 0.00039999964, z: 0.00057872164}

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 7b4bac957c3d72543b0e091f2d84cac7
-timeCreated: 1514892667
+guid: c087a27596313654a89fdcd3b16b359f
+timeCreated: 1515064157
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -48,33 +48,34 @@ ModelImporter:
     100080: Middle_Proximal_L
     100082: Middle_Proximal_R
     100084: Neck
-    100086: RightEye
-    100088: RightEye_end
-    100090: Ring_Distal_end_L
-    100092: Ring_Distal_end_R
-    100094: Ring_Distal_L
-    100096: Ring_Distal_R
-    100098: Ring_Intermediate_L
-    100100: Ring_Intermediate_R
-    100102: Ring_Proximal_L
-    100104: Ring_Proximal_R
-    100106: Shoulder_L
-    100108: Shoulder_R
-    100110: Spine
-    100112: Thumb_Distal_end_L
-    100114: Thumb_Distal_end_R
-    100116: Thumb_Distal_L
-    100118: Thumb_Distal_R
-    100120: Thumb_Intermediate_L
-    100122: Thumb_Intermediate_R
-    100124: Thumb_Proximal_L
-    100126: Thumb_Proximal_R
-    100128: //RootNode
+    100086: //RootNode
+    100088: RightEye
+    100090: RightEye_end
+    100092: Ring_Distal_end_L
+    100094: Ring_Distal_end_R
+    100096: Ring_Distal_L
+    100098: Ring_Distal_R
+    100100: Ring_Intermediate_L
+    100102: Ring_Intermediate_R
+    100104: Ring_Proximal_L
+    100106: Ring_Proximal_R
+    100108: Shoulder_L
+    100110: Shoulder_R
+    100112: Spine
+    100114: Thumb_Distal_end_L
+    100116: Thumb_Distal_end_R
+    100118: Thumb_Distal_L
+    100120: Thumb_Distal_R
+    100122: Thumb_Intermediate_L
+    100124: Thumb_Intermediate_R
+    100126: Thumb_Proximal_L
+    100128: Thumb_Proximal_R
     100130: UA02
     100132: UpperArm_L
     100134: UpperArm_R
     100136: UpperLeg_L
     100138: UpperLeg_R
+    100140: OpenVRCAvatar
     400000: Chest
     400002: Foot_end_L
     400004: Foot_end_R
@@ -118,33 +119,34 @@ ModelImporter:
     400080: Middle_Proximal_L
     400082: Middle_Proximal_R
     400084: Neck
-    400086: RightEye
-    400088: RightEye_end
-    400090: Ring_Distal_end_L
-    400092: Ring_Distal_end_R
-    400094: Ring_Distal_L
-    400096: Ring_Distal_R
-    400098: Ring_Intermediate_L
-    400100: Ring_Intermediate_R
-    400102: Ring_Proximal_L
-    400104: Ring_Proximal_R
-    400106: Shoulder_L
-    400108: Shoulder_R
-    400110: Spine
-    400112: Thumb_Distal_end_L
-    400114: Thumb_Distal_end_R
-    400116: Thumb_Distal_L
-    400118: Thumb_Distal_R
-    400120: Thumb_Intermediate_L
-    400122: Thumb_Intermediate_R
-    400124: Thumb_Proximal_L
-    400126: Thumb_Proximal_R
-    400128: //RootNode
+    400086: //RootNode
+    400088: RightEye
+    400090: RightEye_end
+    400092: Ring_Distal_end_L
+    400094: Ring_Distal_end_R
+    400096: Ring_Distal_L
+    400098: Ring_Distal_R
+    400100: Ring_Intermediate_L
+    400102: Ring_Intermediate_R
+    400104: Ring_Proximal_L
+    400106: Ring_Proximal_R
+    400108: Shoulder_L
+    400110: Shoulder_R
+    400112: Spine
+    400114: Thumb_Distal_end_L
+    400116: Thumb_Distal_end_R
+    400118: Thumb_Distal_L
+    400120: Thumb_Distal_R
+    400122: Thumb_Intermediate_L
+    400124: Thumb_Intermediate_R
+    400126: Thumb_Proximal_L
+    400128: Thumb_Proximal_R
     400130: UA02
     400132: UpperArm_L
     400134: UpperArm_R
     400136: UpperLeg_L
     400138: UpperLeg_R
+    400140: OpenVRCAvatar
     4300000: Mesh
     7400000: Default Take
     9500000: //RootNode
