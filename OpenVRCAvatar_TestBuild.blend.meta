@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: f61aeb2586a15294aab34dc5d2cb2f45
+timeCreated: 1515394999
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Foot_end_L
+    100004: Foot_end_R
+    100006: Foot_L
+    100008: Foot_R
+    100010: Hand_L
+    100012: Hand_R
+    100014: Head
+    100016: Hips
+    100018: Index_Distal_end_L
+    100020: Index_Distal_end_R
+    100022: Index_Distal_L
+    100024: Index_Distal_R
+    100026: Index_Intermediate_L
+    100028: Index_Intermediate_R
+    100030: Index_Proximal_L
+    100032: Index_Proximal_R
+    100034: Jaw
+    100036: Jaw_end
+    100038: LeftEye
+    100040: LeftEye_end
+    100042: Little_Distal_end_L
+    100044: Little_Distal_end_R
+    100046: Little_Distal_L
+    100048: Little_Distal_R
+    100050: Little_Intermediate_L
+    100052: Little_Intermediate_R
+    100054: Little_Proximal_L
+    100056: Little_Proximal_R
+    100058: LowerArm_L
+    100060: LowerArm_R
+    100062: LowerLeg_L
+    100064: LowerLeg_R
+    100066: Mesh
+    100068: Middle_Distal_end_L
+    100070: Middle_Distal_end_R
+    100072: Middle_Distal_L
+    100074: Middle_Distal_R
+    100076: Middle_Intermediate_L
+    100078: Middle_Intermediate_R
+    100080: Middle_Proximal_L
+    100082: Middle_Proximal_R
+    100084: Neck
+    100086: OpenVRCAvatar
+    100088: //RootNode
+    100090: RightEye
+    100092: RightEye_end
+    100094: Ring_Distal_end_L
+    100096: Ring_Distal_end_R
+    100098: Ring_Distal_L
+    100100: Ring_Distal_R
+    100102: Ring_Intermediate_L
+    100104: Ring_Intermediate_R
+    100106: Ring_Proximal_L
+    100108: Ring_Proximal_R
+    100110: Shoulder_L
+    100112: Shoulder_R
+    100114: Spine
+    100116: Thumb_Distal_end_L
+    100118: Thumb_Distal_end_R
+    100120: Thumb_Distal_L
+    100122: Thumb_Distal_R
+    100124: Thumb_Intermediate_L
+    100126: Thumb_Intermediate_R
+    100128: Thumb_Proximal_L
+    100130: Thumb_Proximal_R
+    100132: UpperArm_L
+    100134: UpperArm_R
+    100136: UpperLeg_L
+    100138: UpperLeg_R
+    400000: Chest
+    400002: Foot_end_L
+    400004: Foot_end_R
+    400006: Foot_L
+    400008: Foot_R
+    400010: Hand_L
+    400012: Hand_R
+    400014: Head
+    400016: Hips
+    400018: Index_Distal_end_L
+    400020: Index_Distal_end_R
+    400022: Index_Distal_L
+    400024: Index_Distal_R
+    400026: Index_Intermediate_L
+    400028: Index_Intermediate_R
+    400030: Index_Proximal_L
+    400032: Index_Proximal_R
+    400034: Jaw
+    400036: Jaw_end
+    400038: LeftEye
+    400040: LeftEye_end
+    400042: Little_Distal_end_L
+    400044: Little_Distal_end_R
+    400046: Little_Distal_L
+    400048: Little_Distal_R
+    400050: Little_Intermediate_L
+    400052: Little_Intermediate_R
+    400054: Little_Proximal_L
+    400056: Little_Proximal_R
+    400058: LowerArm_L
+    400060: LowerArm_R
+    400062: LowerLeg_L
+    400064: LowerLeg_R
+    400066: Mesh
+    400068: Middle_Distal_end_L
+    400070: Middle_Distal_end_R
+    400072: Middle_Distal_L
+    400074: Middle_Distal_R
+    400076: Middle_Intermediate_L
+    400078: Middle_Intermediate_R
+    400080: Middle_Proximal_L
+    400082: Middle_Proximal_R
+    400084: Neck
+    400086: OpenVRCAvatar
+    400088: //RootNode
+    400090: RightEye
+    400092: RightEye_end
+    400094: Ring_Distal_end_L
+    400096: Ring_Distal_end_R
+    400098: Ring_Distal_L
+    400100: Ring_Distal_R
+    400102: Ring_Intermediate_L
+    400104: Ring_Intermediate_R
+    400106: Ring_Proximal_L
+    400108: Ring_Proximal_R
+    400110: Shoulder_L
+    400112: Shoulder_R
+    400114: Spine
+    400116: Thumb_Distal_end_L
+    400118: Thumb_Distal_end_R
+    400120: Thumb_Distal_L
+    400122: Thumb_Distal_R
+    400124: Thumb_Intermediate_L
+    400126: Thumb_Intermediate_R
+    400128: Thumb_Proximal_L
+    400130: Thumb_Proximal_R
+    400132: UpperArm_L
+    400134: UpperArm_R
+    400136: UpperLeg_L
+    400138: UpperLeg_R
+    4300000: Mesh
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
